@@ -1,0 +1,13 @@
+# 编辑器 / 操作系统
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+.claude/
+
+# 日志类，不入库（daily log 不上，见 README）
+*.log
+*.tmp
+*.bak
